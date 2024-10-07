@@ -1,10 +1,8 @@
-<!-- Ajax на js -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>JavaScript Ajax POST Demo</title>
+  <title>Тестовое</title>
   <style type="text/css">
     body {
       text-align: center;
@@ -116,16 +114,3 @@
 
 </body>
 </html>
-
-
-
-
-
-<!-- CREATE TABLE contacts (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    name VARCHAR(255) NOT NULL,
-    phone VARCHAR(20) NOT NULL,
-    email VARCHAR(255) NOT NULL UNIQUE,
-    message TEXT NOT NULL,
-    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
-); -->
